@@ -42,7 +42,7 @@ Este es un sistema de gestión de contenido (CMS) simple desarrollado en Node.js
 4. Crea un archivo `.env` en la raíz del proyecto y define las siguientes variables de entorno:
 
    ```plaintext
-   PORT=3000
+   PORT=6000
    MONGODB_URI=tu_url_de_mongodb
    JWT_SECRET=tu_secreto_para_jwt
    ```
