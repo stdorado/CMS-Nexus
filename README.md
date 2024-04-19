@@ -1,6 +1,3 @@
-¡Por supuesto! Aquí tienes un ejemplo de cómo podría ser el README para tu repositorio:
-
----
 
 # CMS Simple para Creación de Posts
 
@@ -68,6 +65,10 @@ Este es un sistema de gestión de contenido (CMS) simple desarrollado en Node.js
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+
+
+## Arquitectura sistema : [Arquitectura Nexus.pdf](https://github.com/stdorado/CMS-Nexus/files/15031979/Arquitectura.Nexus.pdf)
+
 
 ---
 
